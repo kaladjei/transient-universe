@@ -50,7 +50,7 @@ library
             network-uri -any,
             vector -any,
             websockets -any,
-            process == 1.6.5.0,
+            process -any,
             random -any,
             text -any,
             aeson -any,
